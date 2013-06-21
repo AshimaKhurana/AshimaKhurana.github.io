@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Tizen"
+date: 2013-06-21 23:00
+comments: true
+categories: 
+---
